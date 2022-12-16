@@ -1,3 +1,2 @@
-## Practical Web Development with: Docker, Django, Nginx, Redis and Gunicorn
-
-[Go to Transylvanian Academy Web Site]( )
+# MSA_Prac
++ MSA + REDIS 연습 레포
